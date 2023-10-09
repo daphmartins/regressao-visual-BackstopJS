@@ -1,0 +1,15 @@
+{
+  "name": "regressao-visual-backstopjs",
+  "version": "1.0.0",
+  "description": "1. NodeJS (npm) \r 2. BackstopJS\r 3. Leitor de código (vscode)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "backstopjs": "^6.2.2"
+  }
+}
